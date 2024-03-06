@@ -20,4 +20,12 @@
 ![PostMan](https://img.shields.io/badge/-postman-000000?style=flat&logo=postman&logoColor=1575F9)
 ![Swagger](https://img.shields.io/badge/-swagger-000000?style=flat&logo=swagger&logoColor=1575F9)
 
+**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [Create simple voice chat app with nodejs](https://dev.to/hosseinmobarakian/create-simple-voice-chat-app-with-nodejs-1b70)
+- [Create an Instagram downloader API with Nodejs](https://dev.to/hosseinmobarakian/create-an-instagram-downloader-api-with-nodejs-254p)
+- [Create a chat app with Nodejs and Reactjs](https://dev.to/hosseinmobarakian/create-a-chat-app-with-nodejs-and-reactjs-4d3d)
+
+<!-- BLOG-POST-LIST:END -->
+
 ⭐️ From [Hossein Mobarakian](https://github.com/hosseinmobarakian)
