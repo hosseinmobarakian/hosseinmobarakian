@@ -22,6 +22,7 @@
 
 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [What is a Factory Design Pattern? It Is For You!](https://dev.to/hosseinmobarakian/what-is-a-factory-design-pattern-it-is-for-you-1ka6)
 - [Create simple voice chat app with nodejs](https://dev.to/hosseinmobarakian/create-simple-voice-chat-app-with-nodejs-1b70)
 - [Create an Instagram downloader API with Nodejs](https://dev.to/hosseinmobarakian/create-an-instagram-downloader-api-with-nodejs-254p)
 - [Create a chat app with Nodejs and Reactjs](https://dev.to/hosseinmobarakian/create-a-chat-app-with-nodejs-and-reactjs-4d3d)
