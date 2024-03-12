@@ -22,6 +22,14 @@
 ![PostMan](https://img.shields.io/badge/-postman-000000?style=flat&logo=postman&logoColor=1575F9)
 ![Swagger](https://img.shields.io/badge/-swagger-000000?style=flat&logo=swagger&logoColor=1575F9)
 
+**Some of the technologies and languages I have experience with (I Love Learning And Try New Things Sometimes😊)**
+
+![Unity](https://img.shields.io/badge/-unity-000000?style=flat&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/-godot-000000?style=flat&logo=godot&logoColor=white)
+![Flutter](https://img.shields.io/badge/-flutter-000000?style=flat&logo=flutter&logoColor=1575F9)
+![Dart](https://img.shields.io/badge/-dart-000000?style=flat&logo=dart&logoColor=1575F9)
+![Python](https://img.shields.io/badge/-python-000000?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-csharp-000000?style=flat&logo=csharp&logoColor=white)
 
 
 
