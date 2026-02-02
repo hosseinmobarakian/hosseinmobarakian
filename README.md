@@ -3,7 +3,7 @@
 **Languages I have used**
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![Solidity](https://img.shields.io/badge/-Rust-000000?style=flat&logo=solidity)  -- Begginer
+![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity) 
 
 **Databases I have used**
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
@@ -16,7 +16,7 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Actix-web](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=actix-web)
 ![Tauri](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=tauri)
-![Foundry](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=foundry) -- Begginer
+![Foundry](https://img.shields.io/badge/-Foundry-000000?style=flat&logo=getfoundry)
 
 **Others:**
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
