@@ -1,19 +1,24 @@
 [**My Resume😎**](https://github.com/hosseinmobarakian/hosseinmobarakian/releases/download/Resume/Hossein.Mobarakian.pdf)
 
 **Languages I have used**
-
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![Solidity](https://img.shields.io/badge/-Rust-000000?style=flat&logo=solidity)  -- Begginer
+
+**Databases I have used**
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![SurrealDB](https://img.shields.io/badge/-SurrealDB-000000?style=flat&logo=surrealdb)
 
-**Some of the technologies I have worked with**
+**Some of the frameworks and runtimes I have worked with**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
+![Actix-web](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=actix-web)
+![Tauri](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=tauri)
+![Foundry](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=foundry) -- Begginer
+
+**Others:**
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
@@ -21,16 +26,6 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 ![PostMan](https://img.shields.io/badge/-postman-000000?style=flat&logo=postman&logoColor=1575F9)
 ![Swagger](https://img.shields.io/badge/-swagger-000000?style=flat&logo=swagger&logoColor=1575F9)
-
-**Some of the technologies and languages I have experience with (I Love Learning And Try New Things Sometimes😊)**
-
-![Unity](https://img.shields.io/badge/-unity-000000?style=flat&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/-godot-000000?style=flat&logo=godot&logoColor=white)
-![Flutter](https://img.shields.io/badge/-flutter-000000?style=flat&logo=flutter&logoColor=1575F9)
-![Dart](https://img.shields.io/badge/-dart-000000?style=flat&logo=dart&logoColor=1575F9)
-![Python](https://img.shields.io/badge/-python-000000?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-csharp-000000?style=flat&logo=csharp&logoColor=white)
-
 
 
 **Latest Blog Posts**
