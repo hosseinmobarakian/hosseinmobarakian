@@ -14,7 +14,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Actix-web](https://img.shields.io/badge/-Actix-Web-000000?style=flat&logo=actixweb)
+![Actix-web](https://img.shields.io/badge/-Actix Web-000000?style=flat&logo=actixweb)
 ![Tauri](https://img.shields.io/badge/-Tauri-000000?style=flat&logo=tauri)
 ![Foundry](https://img.shields.io/badge/-Foundry-000000?style=flat&logo=getfoundry)
 
