@@ -1,5 +1,3 @@
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=hosseinmobarakian&langs_count=4)
-
 **Languages I have used**
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
