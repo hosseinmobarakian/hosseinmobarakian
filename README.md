@@ -1,4 +1,4 @@
-[**My Resume😎**](https://github.com/hosseinmobarakian/hosseinmobarakian/releases/download/Resume/Hossein.Mobarakian.pdf)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=hosseinmobarakian&langs_count=4)
 
 **Languages I have used**
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
