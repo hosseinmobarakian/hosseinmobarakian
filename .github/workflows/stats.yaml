@@ -2,26 +2,32 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"        # runs every day at midnight UTC
-  workflow_dispatch:           # allows you to run it manually from the Actions tab
+    - cron: "0 0 * * *"        # Runs daily at midnight UTC
+  workflow_dispatch:           # Allows manual trigger from Actions tab
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write          # needed to commit the generated SVG files
+      contents: write          # Required to commit the SVG files back to the repo
 
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate stats card
+      # ------------------------------------------------
+      # 1. FULL STATS CARD (private repos included, rank hidden)
+      # ------------------------------------------------
+      - name: Generate full stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&commits_year=2024
+          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&hide_rank=true
           path: profile/stats.svg
           token: ${{ secrets.GH_TOKEN }}
 
+      # ------------------------------------------------
+      # 2. TOP LANGUAGES CARD (compact layout, private repos included)
+      # ------------------------------------------------
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -30,6 +36,9 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GH_TOKEN }}
 
+      # ------------------------------------------------
+      # 3. COMMIT THE GENERATED CARDS
+      # ------------------------------------------------
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
